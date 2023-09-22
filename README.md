@@ -10,7 +10,7 @@ For the backbone network, we have chosen a hierarchical topology, specifically a
 Please refer to the attached network diagram, which illustrates all UOM buildings, their interconnections, and bandwidth allocation for each link. This network diagram will be used as a basis for routing simulations.
 
 ### IP Addressing Scheme:
-We have developed an IP addressing scheme for both IPv4 and IPv6. Each building will be assigned a dedicated subnet to ensure efficient IP management and scalability.
+We have developed an IP addressing scheme for both IPv4. Each building will be assigned a dedicated subnet to ensure efficient IP management and scalability.
 
 ### Selection of Active and Passive Components:
 
